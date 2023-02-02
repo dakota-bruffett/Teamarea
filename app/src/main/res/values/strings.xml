@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">team area</string>
+    <string name="name">Name</string>
+    <string name="name2">Name</string>
+    <string name="team_1">Team_!</string>
+    <string name="team_2">Team_2</string>
+    <string name="results_button">Results_Button</string>
+    <string name="your_result_is">Your result is</string>
+</resources>
